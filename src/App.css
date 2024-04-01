@@ -1,0 +1,40 @@
+.slick-dots li button:before {
+  color: #cbd5e0;
+  font-size: 6px;
+}
+
+.slick-dots li.slick-active button:before {
+  color: #f6ad55;
+}
+
+/* .slick-next {
+  position: absolute;
+
+  right: 1%;
+}
+.slick-prev {
+  position: absolute;
+  z-index: 20;
+  left: 0.5%;
+} */
+/* .slick-prev:before,
+.slick-next:before {
+  color: #cbd5e0;
+  font-size: 30px;
+}
+
+.slick-prev:hover:before,
+.slick-next:hover:before {
+  color: #f6ad55;
+} */
+/* .center-block-mt-6 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1.5rem;
+} */
+/* .full-cover {
+  width: 100%;
+  height: 24rem;
+  object-fit: cover;
+} */
